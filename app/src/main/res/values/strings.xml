@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic SQL List App</string>
+    <string name="get_data">Get Data</string>
+    <string name="progress">Progress</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+</resources>
