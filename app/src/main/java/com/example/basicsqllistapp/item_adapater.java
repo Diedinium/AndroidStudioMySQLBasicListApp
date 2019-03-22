@@ -22,7 +22,7 @@ public class item_adapater extends BaseAdapter {
         mInflator = (LayoutInflater) c.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         map = m;
         title = new ArrayList<String>(map.keySet());
-        date = new ArrayList<String>(map.keySet());
+        date = new ArrayList<String>(map.values());
     }
 
     @Override
